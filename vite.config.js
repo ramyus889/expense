@@ -5,7 +5,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  baseUrl: "/expense/",
+  base: "/expense/",
   publicPath: "/expense/",
   plugins: [vue()],
   resolve: {
