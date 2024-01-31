@@ -1,0 +1,7 @@
+export default {
+  root: ({context:e,props:r})=>({class:["absolute","shadow-md","p-fadein",{"py-0 px-1":(e==null?void 0:e.right)||(e==null?void 0:e.left)||!(e!=null&&e.right)&&!(e!=null&&e.left)&&!(e!=null&&e.top)&&!(e!=null&&e.bottom),"py-1 px-0":(e==null?void 0:e.top)||(e==null?void 0:e.bottom)}]}),
+  arrow: ({context:e,props:r})=>({class:["absolute","w-0","h-0","border-transparent","border-solid",{"border-y-[0.25rem] border-r-[0.25rem] border-l-0 border-r-surface-600":(e==null?void 0:e.right)||!(e!=null&&e.right)&&!(e!=null&&e.left)&&!(e!=null&&e.top)&&!(e!=null&&e.bottom),"border-y-[0.25rem] border-l-[0.25rem] border-r-0 border-l-surface-600":e==null?void 0:e.left,"border-x-[0.25rem] border-t-[0.25rem] border-b-0 border-t-surface-600":e==null?void 0:e.top,"border-x-[0.25rem] border-b-[0.25rem] border-t-0 border-b-surface-600":e==null?void 0:e.bottom},{"-mt-1 ":(e==null?void 0:e.right)||!(e!=null&&e.right)&&!(e!=null&&e.left)&&!(e!=null&&e.top)&&!(e!=null&&e.bottom),"-mt-1":e==null?void 0:e.left,"-ml-1":(e==null?void 0:e.top)||(e==null?void 0:e.bottom)}]}),
+  text: {
+    class: ["p-3", "bg-surface-600 dark:bg-surface-700", "text-white", "leading-none", "rounded-md", "whitespace-pre-line", "break-words"]
+  }
+}

@@ -1,0 +1,2166 @@
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=ADLaM+Display&family=AR+One+Sans:wght@400;500;600;700&family=Abel&family=Abhaya+Libre:wght@400;500;600;700;800&family=Aboreto&family=Abril+Fatface&family=Abyssinica+SIL&family=Aclonica&family=Acme&family=Actor&family=Adamina&family=Advent+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Agbalumo&family=Agdasima:wght@400;700&family=Aguafina+Script&family=Akatab:wght@400;500;600;700;800;900&family=Akaya+Kanadaka&family=Akaya+Telivigala&family=Akronim&family=Akshar:wght@300;400;500;600;700&family=Aladin&family=Alata&family=Alatsi&family=Albert+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Aldrich&family=Alef:wght@400;700&family=Alegreya+SC:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&family=Alegreya+Sans+SC:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Aleo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Alex+Brush&family=Alexandria:wght@100;200;300;400;500;600;700;800;900&family=Alfa+Slab+One&family=Alice&family=Alike&family=Alike+Angular&family=Alkalami&family=Alkatra:wght@400;500;600;700&family=Allan:wght@400;700&family=Allerta&family=Allerta+Stencil&family=Allison&family=Allura&family=Almarai:wght@300;400;700;800&family=Almendra+Display&family=Almendra+SC&family=Almendra:ital,wght@0,400;0,700;1,400;1,700&family=Alumni+Sans+Collegiate+One:ital@0;1&family=Alumni+Sans+Inline+One:ital@0;1&family=Alumni+Sans+Pinstripe:ital@0;1&family=Alumni+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Amarante&family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&family=Amatic+SC:wght@400;700&family=Amethysta&family=Amiko:wght@400;600;700&family=Amiri+Quran&family=Amiri:ital,wght@0,400;0,700;1,400;1,700&family=Amita:wght@400;700&family=Anaheim&family=Andada+Pro:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Anek+Bangla:wght@100;200;300;400;500;600;700;800&family=Anek+Devanagari:wght@100;200;300;400;500;600;700;800&family=Anek+Gujarati:wght@100;200;300;400;500;600;700;800&family=Anek+Gurmukhi:wght@100;200;300;400;500;600;700;800&family=Anek+Kannada:wght@100;200;300;400;500;600;700;800&family=Anek+Latin:wght@100;200;300;400;500;600;700;800&family=Anek+Malayalam:wght@100;200;300;400;500;600;700;800&family=Anek+Odia:wght@100;200;300;400;500;600;700;800&family=Anek+Tamil:wght@100;200;300;400;500;600;700;800&family=Anek+Telugu:wght@100;200;300;400;500;600;700;800&family=Angkor&family=Annie+Use+Your+Telescope&family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&family=Antic&family=Antic+Didone&family=Antic+Slab&family=Anton&family=Antonio:wght@100;200;300;400;500;600;700&family=Anuphan:wght@100;200;300;400;500;600;700&family=Anybody:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Aoboshi+One&family=Arapey:ital@0;1&family=Arbutus&family=Arbutus+Slab&family=Architects+Daughter&family=Archivo+Black&family=Archivo+Narrow:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Archivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Are+You+Serious&family=Aref+Ruqaa+Ink:wght@400;700&family=Aref+Ruqaa:wght@400;700&family=Arima:wght@100;200;300;400;500;600;700&family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Arizonia&family=Armata&family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Artifika&family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Arya:wght@400;700&family=Asap+Condensed:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Asap:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Asar&family=Asset&family=Assistant:wght@200;300;400;500;600;700;800&family=Astloch:wght@400;700&family=Asul:wght@400;700&family=Athiti:wght@200;300;400;500;600;700&family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Atma:wght@300;400;500;600;700&family=Atomic+Age&family=Aubrey&family=Audiowide&family=Autour+One&family=Average&family=Average+Sans&family=Averia+Gruesa+Libre&family=Averia+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Averia+Sans+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Averia+Serif+Libre:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Azeret+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=B612+Mono:ital,wght@0,400;0,700;1,400;1,700&family=B612:ital,wght@0,400;0,700;1,400;1,700&family=Babylonica&family=Bacasime+Antique&family=Bad+Script&family=Bahiana&family=Bahianita&family=Bai+Jamjuree:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Bakbak+One&family=Ballet:opsz@16..72&family=Balsamiq+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Balthazar&family=Bangers&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow+Semi+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barriecito&family=Barrio&family=Basic&family=Baskervville:ital@0;1&family=Battambang:wght@100;300;400;700;900&family=Baumans&family=Bayon&family=Be+Vietnam+Pro:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Beau+Rivage&family=Bebas+Neue&family=Belanosima:wght@400;600;700&family=Belgrano&family=Bellefair&family=Belleza&family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Bellota:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=BenchNine:wght@300;400;700&family=Benne&family=Bentham&family=Berkshire+Swash&family=Besley:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Beth+Ellen&family=Bevan:ital@0;1&family=BhuTuka+Expanded+One&family=Big+Shoulders+Display:wght@100;200;300;400;500;600;700;800;900&family=Big+Shoulders+Stencil+Display:wght@100;200;300;400;500;600;700;800;900&family=Bigelow+Rules&family=Bigshot+One&family=Bilbo&family=Bilbo+Swash+Caps&family=BioRhyme+Expanded:wght@200;300;400;700;800&family=BioRhyme:wght@200;300;400;500;600;700;800&family=Birthstone&family=Birthstone+Bounce:wght@400;500&family=Biryani:wght@200;300;400;600;700;800;900&family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Black+And+White+Picture&family=Black+Han+Sans&family=Black+Ops+One&family=Blinker:wght@100;200;300;400;600;700;800;900&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,600;0,6..96,700;0,6..96,800;0,6..96,900;1,6..96,400;1,6..96,500;1,6..96,600;1,6..96,700;1,6..96,800;1,6..96,900&family=Bokor&family=Bona+Nova:ital,wght@0,400;0,700;1,400&family=Bonbon&family=Bonheur+Royale&family=Boogaloo&family=Borel&family=Bowlby+One&family=Bowlby+One+SC&family=Brawler:wght@400;700&family=Bree+Serif&family=Bricolage+Grotesque:opsz,wght@12..96,200;12..96,300;12..96,400;12..96,500;12..96,600;12..96,700;12..96,800&family=Bruno+Ace&family=Bruno+Ace+SC&family=Brygada+1918:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Bubblegum+Sans&family=Bubbler+One&family=Buda:wght@300&family=Buenard:wght@400;700&family=Bungee&family=Bungee+Hairline&family=Bungee+Inline&family=Bungee+Outline&family=Bungee+Shade&family=Bungee+Spice&family=Butcherman&family=Butterfly+Kids&family=Cabin+Condensed:wght@400;500;600;700&family=Cabin+Sketch:wght@400;700&family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Caesar+Dressing&family=Cagliostro&family=Caladea:ital,wght@0,400;0,700;1,400;1,700&family=Calistoga&family=Calligraffitti&family=Cambay:ital,wght@0,400;0,700;1,400;1,700&family=Cambo&family=Candal&family=Cantarell:ital,wght@0,400;0,700;1,400;1,700&family=Cantata+One&family=Cantora+One&family=Caprasimo&family=Capriola&family=Caramel&family=Carattere&family=Cardo:ital,wght@0,400;0,700;1,400&family=Carlito:ital,wght@0,400;0,700;1,400;1,700&family=Carme&family=Carrois+Gothic&family=Carrois+Gothic+SC&family=Carter+One&family=Castoro+Titling&family=Castoro:ital@0;1&family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Caudex:ital,wght@0,400;0,700;1,400;1,700&family=Caveat+Brush&family=Caveat:wght@400;500;600;700&family=Cedarville+Cursive&family=Ceviche+One&family=Chakra+Petch:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Changa+One:ital@0;1&family=Changa:wght@200;300;400;500;600;700;800&family=Chango&family=Charis+SIL:ital,wght@0,400;0,700;1,400;1,700&family=Charm:wght@400;700&family=Charmonman:wght@400;700&family=Chathura:wght@100;300;400;700;800&family=Chau+Philomene+One:ital@0;1&family=Chela+One&family=Chelsea+Market&family=Chenla&family=Cherish&family=Cherry+Cream+Soda&family=Cherry+Swash:wght@400;700&family=Chewy&family=Chicle&family=Chilanka&family=Chivo+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Chivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Chonburi&family=Cinzel+Decorative:wght@400;700;900&family=Cinzel:wght@400;500;600;700;800;900&family=Clicker+Script&family=Climate+Crisis&family=Coda:wght@400;800&family=Codystar:wght@300;400&family=Coiny&family=Combo&family=Comfortaa:wght@300;400;500;600;700&family=Comforter&family=Comforter+Brush&family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Coming+Soon&family=Comme:wght@100;200;300;400;500;600;700;800;900&family=Commissioner:wght@100;200;300;400;500;600;700;800;900&family=Concert+One&family=Condiment&family=Contrail+One&family=Convergence&family=Cookie&family=Copse&family=Corben:wght@400;700&family=Corinthia:wght@400;700&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cormorant:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Courgette&family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Cousine:ital,wght@0,400;0,700;1,400;1,700&family=Coustard:wght@400;900&family=Covered+By+Your+Grace&family=Crafty+Girls&family=Creepster&family=Crete+Round:ital@0;1&family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Croissant+One&family=Crushed&family=Cuprum:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Cute+Font&family=Cutive&family=Cutive+Mono&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=DM+Sans:ital,opsz,wght@0,9..40,100;0,9..40,200;0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800;0,9..40,900;0,9..40,1000;1,9..40,100;1,9..40,200;1,9..40,300;1,9..40,400;1,9..40,500;1,9..40,600;1,9..40,700;1,9..40,800;1,9..40,900;1,9..40,1000&family=DM+Serif+Display:ital@0;1&family=DM+Serif+Text:ital@0;1&family=Damion&family=Dancing+Script:wght@400;500;600;700&family=Dangrek&family=Darker+Grotesque:wght@300;400;500;600;700;800;900&family=Dawning+of+a+New+Day&family=Days+One&family=Dekko&family=Dela+Gothic+One&family=Delicious+Handrawn&family=Delius&family=Delius+Swash+Caps&family=Delius+Unicase&family=Della+Respira&family=Denk+One&family=Devonshire&family=Dhurjati&family=Didact+Gothic&family=Diplomata&family=Diplomata+SC&family=Do+Hyeon&family=Dokdo&family=Domine:wght@400;500;600;700&family=Donegal+One&family=Dongle:wght@300;400;700&family=Doppio+One&family=Dorsa&family=Dosis:wght@200;300;400;500;600;700;800&family=DotGothic16&family=Dr+Sugiyama&family=Duru+Sans&family=DynaPuff:wght@400;500;600;700&family=Dynalight&family=Ephesis&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Hedvig+Letters+Sans&family=Hedvig+Letters+Serif:opsz@12..24&family=Heebo:wght@100;200;300;400;500;600;700;800;900&family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lobster&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Manrope:wght@200;300;400;500;600;700;800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+Linear+A&family=Noto+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&family=Pacifico&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Rubik+Bubbles&family=Smooch&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Vina+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Eagle+Lake&family=East+Sea+Dokdo&family=Eater&family=Economica:ital,wght@0,400;0,700;1,400;1,700&family=Eczar:wght@400;500;600;700;800&family=Edu+NSW+ACT+Foundation:wght@400;500;600;700&family=Edu+QLD+Beginner:wght@400;500;600;700&family=Edu+SA+Beginner:wght@400;500;600;700&family=Edu+TAS+Beginner:wght@400;500;600;700&family=Edu+VIC+WA+NT+Beginner:wght@400;500;600;700&family=Electrolize&family=Elsie+Swash+Caps:wght@400;900&family=Elsie:wght@400;900&family=Emblema+One&family=Emilys+Candy&family=Encode+Sans+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Encode+Sans+Expanded:wght@100;200;300;400;500;600;700;800;900&family=Encode+Sans+SC:wght@100;200;300;400;500;600;700;800;900&family=Encode+Sans+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&family=Encode+Sans+Semi+Expanded:wght@100;200;300;400;500;600;700;800;900&family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&family=Engagement&family=Englebert&family=Enriqueta:wght@400;500;600;700&family=Ephesis&family=Epilogue:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Erica+One&family=Esteban&family=Estonia&family=Ewert&family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Expletus+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Explora&family=Fahkwang:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&family=Familjen+Grotesk:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Fanwood+Text:ital@0;1&family=Farro:wght@300;400;500;700&family=Farsan&family=Fascinate&family=Fascinate+Inline&family=Faster+One&family=Fasthand&family=Faustina:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Federant&family=Federo&family=Felipa&family=Fenix&family=Festive&family=Figtree:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Finger+Paint&family=Finlandica:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Fira+Code:wght@300;400;500;600;700&family=Fira+Mono:wght@400;500;700&family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Fjalla+One&family=Fjord+One&family=Flamenco:wght@300;400&family=Flavors&family=Fleur+De+Leah&family=Flow+Block&family=Flow+Circular&family=Flow+Rounded&family=Foldit:wght@100&family=Fondamento&family=Fontdiner+Swanky&family=Forum&family=Fragment+Mono:ital@0;1&family=Francois+One&family=Frank+Ruhl+Libre:wght@300;400;500;600;700;800;900&family=Fraunces:ital,opsz,wght@0,9..144,100;0,9..144,200;0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;0,9..144,800;0,9..144,900;1,9..144,100;1,9..144,200;1,9..144,300;1,9..144,400;1,9..144,500;1,9..144,600;1,9..144,700;1,9..144,800;1,9..144,900&family=Freckle+Face&family=Fredericka+the+Great&family=Fredoka:wght@300;400;500;600;700&family=Freehand&family=Fresca&family=Frijole&family=Fruktur:ital@0;1&family=Fugaz+One&family=Fuggles&family=Fuzzy+Bubbles:wght@400;700&family=GFS+Didot&family=GFS+Neohellenic:ital,wght@0,400;0,700;1,400;1,700&family=Gabarito:wght@400;500;600;700;800;900&family=Gabriela&family=Gaegu:wght@300;400;700&family=Gafata&family=Galada&family=Galdeano&family=Galindo&family=Gamja+Flower&family=Gantari:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Gayathri:wght@100;400;700&family=Gelasio:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Gemunu+Libre:wght@200;300;400;500;600;700;800&family=Genos:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&family=Geo:ital@0;1&family=Geologica:wght@100;200;300;400;500;600;700;800;900&family=Georama:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Geostar&family=Geostar+Fill&family=Germania+One&family=Gideon+Roman&family=Gidugu&family=Gilda+Display&family=Girassol&family=Give+You+Glory&family=Glass+Antiqua&family=Glegoo:wght@400;700&family=Gloock&family=Gloria+Hallelujah&family=Glory:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Gluten:wght@100;200;300;400;500;600;700;800;900&family=Goblin+One&family=Gochi+Hand&family=Goldman:wght@400;700&family=Golos+Text:wght@400;500;600;700;800;900&family=Gorditas:wght@400;700&family=Gothic+A1:wght@100;200;300;400;500;600;700;800;900&family=Gotu&family=Goudy+Bookletter+1911&family=Gowun+Batang:wght@400;700&family=Gowun+Dodum&family=Graduate&family=Grand+Hotel&family=Grandstander:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Grape+Nuts&family=Gravitas+One&family=Great+Vibes&family=Grechen+Fuemen&family=Grenze+Gotisch:wght@100;200;300;400;500;600;700;800;900&family=Grenze:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Grey+Qo&family=Griffy&family=Gruppo&family=Gudea:ital,wght@0,400;0,700;1,400&family=Gugi&family=Gupter:wght@400;500;700&family=Gurajada&family=Gwendolyn&family=Habibi&family=Hachi+Maru+Pop&family=Hahmlet:wght@100;200;300;400;500;600;700;800;900&family=Halant:wght@300;400;500;600;700&family=Hammersmith+One&family=Hanalei&family=Hanalei+Fill&family=Handjet:wght@100;200;300;400;500;600;700;800;900&family=Handlee&family=Hanken+Grotesk:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Hanuman:wght@100;300;400;700;900&family=Happy+Monkey&family=Headland+One&family=Hedvig+Letters+Sans&family=Hedvig+Letters+Serif:opsz@12..24&family=Heebo:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.font-weight-100 {
+  font-weight: 100;
+}
+.font-weight-200 {
+  font-weight: 200;
+}
+.font-weight-300 {
+  font-weight: 300;
+}
+.font-weight-400 {
+  font-weight: 400;
+}
+.font-weight-500 {
+  font-weight: 500;
+}
+.font-weight-600 {
+  font-weight: 600;
+}
+.font-weight-700 {
+  font-weight: 700;
+}
+.font-weight-800 {
+  font-weight: 800;
+}
+.font-weight-900 {
+  font-weight: 900;
+}
+
+.font-style-italic {
+  font-style: italic;
+}
+.font-style-normal {
+  font-style: normal;
+}
+
+.font-direction-ltr {
+  direction: ltr;
+}
+.font-direction-rtl {
+  direction: rtl;
+}
+
+.font-ABeeZee {
+  font-family: "ABeeZee", sans-serif;
+}
+
+.font-Abel {
+  font-family: "Abel", sans-serif;
+}
+
+.font-AbhayaLibre {
+  font-family: "Abhaya Libre", sans-serif;
+}
+
+.font-Aboreto {
+  font-family: "Aboreto", sans-serif;
+}
+
+.font-AbrilFatface {
+  font-family: "Abril Fatface", sans-serif;
+}
+
+.font-AbyssinicaSIL {
+  font-family: "Abyssinica SIL", sans-serif;
+}
+
+.font-Aclonica {
+  font-family: "Aclonica", sans-serif;
+}
+
+.font-Acme {
+  font-family: "Acme", sans-serif;
+}
+
+.font-Actor {
+  font-family: "Actor", sans-serif;
+}
+
+.font-Adamina {
+  font-family: "Adamina", sans-serif;
+}
+
+.font-ADLaMDisplay {
+  font-family: "ADLaM Display", sans-serif;
+}
+
+.font-AdventPro {
+  font-family: "Advent Pro", sans-serif;
+}
+
+.font-Agbalumo {
+  font-family: "Agbalumo", sans-serif;
+}
+
+.font-Agdasima {
+  font-family: "Agdasima", sans-serif;
+}
+
+.font-AguafinaScript {
+  font-family: "Aguafina Script", sans-serif;
+}
+
+.font-Akatab {
+  font-family: "Akatab", sans-serif;
+}
+
+.font-AkayaKanadaka {
+  font-family: "Akaya Kanadaka", sans-serif;
+}
+
+.font-AkayaTelivigala {
+  font-family: "Akaya Telivigala", sans-serif;
+}
+
+.font-Akronim {
+  font-family: "Akronim", sans-serif;
+}
+
+.font-Akshar {
+  font-family: "Akshar", sans-serif;
+}
+
+.font-Aladin {
+  font-family: "Aladin", sans-serif;
+}
+
+.font-Alata {
+  font-family: "Alata", sans-serif;
+}
+
+.font-Alatsi {
+  font-family: "Alatsi", sans-serif;
+}
+
+.font-AlbertSans {
+  font-family: "Albert Sans", sans-serif;
+}
+
+.font-Aldrich {
+  font-family: "Aldrich", sans-serif;
+}
+
+.font-Alef {
+  font-family: "Alef", sans-serif;
+}
+
+.font-Alegreya {
+  font-family: "Alegreya", sans-serif;
+}
+
+.font-AlegreyaSans {
+  font-family: "Alegreya Sans", sans-serif;
+}
+
+.font-AlegreyaSansSC {
+  font-family: "Alegreya Sans SC", sans-serif;
+}
+
+.font-AlegreyaSC {
+  font-family: "Alegreya SC", sans-serif;
+}
+
+.font-Aleo {
+  font-family: "Aleo", sans-serif;
+}
+
+.font-AlexBrush {
+  font-family: "Alex Brush", sans-serif;
+}
+
+.font-AlfaSlabOne {
+  font-family: "Alfa Slab One", sans-serif;
+}
+
+.font-Alice {
+  font-family: "Alice", sans-serif;
+}
+
+.font-Alike {
+  font-family: "Alike", sans-serif;
+}
+
+.font-AlikeAngular {
+  font-family: "Alike Angular", sans-serif;
+}
+
+.font-Alkatra {
+  font-family: "Alkatra", sans-serif;
+}
+
+.font-Allan {
+  font-family: "Allan", sans-serif;
+}
+
+.font-Allerta {
+  font-family: "Allerta", sans-serif;
+}
+
+.font-AllertaStencil {
+  font-family: "Allerta Stencil", sans-serif;
+}
+.font-AllertaStencil {
+  font-family: "Allerta Stencil", sans-serif;
+}
+
+.font-Allison {
+  font-family: "Allison", sans-serif;
+}
+
+.font-Allura {
+  font-family: "Allura", sans-serif;
+}
+
+.font-Almarai {
+  font-family: "Almarai", sans-serif;
+}
+
+.font-Almendra {
+  font-family: "Almendra", sans-serif;
+}
+
+.font-AlmendraDisplay {
+  font-family: "Almendra Display", sans-serif;
+}
+
+.font-AlmendraSC {
+  font-family: "Almendra SC", sans-serif;
+}
+
+.font-AlumniSans {
+  font-family: "Alumni Sans", sans-serif;
+}
+
+.font-AlumniSansCollegiateOne {
+  font-family: "Alumni Sans Collegiate One", sans-serif;
+}
+
+.font-AlumniSansInlineOne {
+  font-family: "Alumni Sans Inline One", sans-serif;
+}
+
+.font-AlumniSansPinstripe {
+  font-family: "Alumni Sans Pinstripe", sans-serif;
+}
+
+.font-Amarante {
+  font-family: "Amarante", sans-serif;
+}
+
+.font-Amaranth {
+  font-family: "Amaranth", sans-serif;
+}
+
+.font-AmaticSC {
+  font-family: "Amatic SC", sans-serif;
+}
+
+.font-Amethysta {
+  font-family: "Amethysta", sans-serif;
+}
+
+.font-Amiko {
+  font-family: "Amiko", sans-serif;
+}
+
+.font-Amita {
+  font-family: "Amita", sans-serif;
+}
+
+.font-Anaheim {
+  font-family: "Anaheim", sans-serif;
+}
+
+.font-Andika {
+  font-family: "Andika", sans-serif;
+}
+
+.font-AnekBangla {
+  font-family: "Anek Bangla", sans-serif;
+}
+
+.font-AnekDevanagari {
+  font-family: "Anek Devanagari", sans-serif;
+}
+
+.font-Angkor {
+  font-family: "Angkor", sans-serif;
+}
+
+.font-AnnieUseYourTelescope {
+  font-family: "Annie Use Your Telescope", sans-serif;
+}
+
+.font-AnonymousPro {
+  font-family: "Anonymous Pro", sans-serif;
+}
+
+.font-Antic {
+  font-family: "Antic", sans-serif;
+}
+
+.font-Anton {
+  font-family: "Anton", sans-serif;
+}
+
+.font-Antonio {
+  font-family: "Antonio", sans-serif;
+}
+
+.font-Anybody {
+  font-family: "Anybody", sans-serif;
+}
+
+.font-AROneSans {
+  font-family: "AR One Sans", sans-serif;
+}
+
+.font-Arapey {
+  font-family: "Arapey", sans-serif;
+}
+
+.font-Arbutus {
+  font-family: "Arbutus", sans-serif;
+}
+
+.font-ArbutusSlab {
+  font-family: "Arbutus Slab", sans-serif;
+}
+
+.font-ArchitectsDaughter {
+  font-family: "Architects Daughter", sans-serif;
+}
+
+.font-Archivo {
+  font-family: "Archivo", sans-serif;
+}
+
+.font-ArchivoBlack {
+  font-family: "Archivo Black", sans-serif;
+}
+
+.font-ArchivoNarrow {
+  font-family: "Archivo Narrow", sans-serif;
+}
+
+.font-AreYouSerious {
+  font-family: "Are You Serious", sans-serif;
+}
+
+.font-Arima {
+  font-family: "Arima", sans-serif;
+}
+
+.font-Arimo {
+  font-family: "Arimo", sans-serif;
+}
+
+.font-Arizonia {
+  font-family: "Arizonia", sans-serif;
+}
+
+.font-Armata {
+  font-family: "Armata", sans-serif;
+}
+
+.font-Arsenal {
+  font-family: "Arsenal", sans-serif;
+}
+
+.font-Artifika {
+  font-family: "Artifika", sans-serif;
+}
+
+.font-Arvo {
+  font-family: "Arvo", sans-serif;
+}
+
+.font-Arya {
+  font-family: "Arya", sans-serif;
+}
+
+.font-Asap {
+  font-family: "Asap", sans-serif;
+}
+
+.font-AsapCondensed {
+  font-family: "Asap Condensed", sans-serif;
+}
+
+.font-Asar {
+  font-family: "Asar", sans-serif;
+}
+
+.font-Asset {
+  font-family: "Asset", sans-serif;
+}
+
+.font-Assistant {
+  font-family: "Assistant", sans-serif;
+}
+
+.font-Astloch {
+  font-family: "Astloch", sans-serif;
+}
+
+.font-Asul {
+  font-family: "Asul", sans-serif;
+}
+
+.font-Athiti {
+  font-family: "Athiti", sans-serif;
+}
+
+.font-AtkinsonHyperlegible {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+}
+
+.font-Atma {
+  font-family: "Atma", sans-serif;
+}
+
+.font-AtomicAge {
+  font-family: "Atomic Age", sans-serif;
+}
+
+.font-Aubrey {
+  font-family: "Aubrey", sans-serif;
+}
+
+.font-Audiowide {
+  font-family: "Audiowide", sans-serif;
+}
+
+.font-AutourOne {
+  font-family: "Autour One", sans-serif;
+}
+
+.font-Average {
+  font-family: "Average", sans-serif;
+}
+
+.font-AverageSans {
+  font-family: "Average Sans", sans-serif;
+}
+
+.font-AveriaGruesaLibre {
+  font-family: "Averia Gruesa Libre", sans-serif;
+}
+
+.font-AveriaLibre {
+  font-family: "Averia Libre", sans-serif;
+}
+
+.font-AveriaSansLibre {
+  font-family: "Averia Sans Libre", sans-serif;
+}
+
+.font-AveriaSerifLibre {
+  font-family: "Averia Serif Libre", sans-serif;
+}
+
+.font-AzeretMono {
+  font-family: "Azeret Mono", sans-serif;
+}
+
+.font-B612 {
+  font-family: "B612", sans-serif;
+}
+
+.font-B612Mono {
+  font-family: "B612 Mono", sans-serif;
+}
+
+.font-Babylonica {
+  font-family: "Babylonica", sans-serif;
+}
+
+.font-BacasimeAntique {
+  font-family: "Bacasime Antique", sans-serif;
+}
+
+.font-BadScript {
+  font-family: "Bad Script", sans-serif;
+}
+
+.font-Bahiana {
+  font-family: "Bahiana", sans-serif;
+}
+
+.font-Bahianita {
+  font-family: "Bahianita", sans-serif;
+}
+
+.font-BaiJamjuree {
+  font-family: "Bai Jamjuree", sans-serif;
+}
+
+.font-BakbakOne {
+  font-family: "Bakbak One", sans-serif;
+}
+
+.font-Ballet {
+  font-family: "Ballet", sans-serif;
+}
+
+.font-BalsamiqSans {
+  font-family: "Balsamiq Sans", sans-serif;
+}
+
+.font-Balthazar {
+  font-family: "Balthazar", sans-serif;
+}
+
+.font-Bangers {
+  font-family: "Bangers", sans-serif;
+}
+
+.font-Barlow {
+  font-family: "Barlow", sans-serif;
+}
+
+.font-BarlowCondensed {
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.font-BarlowSemiCondensed {
+  font-family: "Barlow Semi Condensed", sans-serif;
+}
+
+.font-Barriecito {
+  font-family: "Barriecito", sans-serif;
+}
+
+.font-Barrio {
+  font-family: "Barrio", sans-serif;
+}
+
+.font-Basic {
+  font-family: "Basic", sans-serif;
+}
+
+.font-Baskervville {
+  font-family: "Baskervville", sans-serif;
+}
+
+.font-Battambang {
+  font-family: "Battambang", sans-serif;
+}
+
+.font-Baumans {
+  font-family: "Baumans", sans-serif;
+}
+
+.font-Bayon {
+  font-family: "Bayon", sans-serif;
+}
+
+.font-BeVietnamPro {
+  font-family: "Be Vietnam Pro", sans-serif;
+}
+
+.font-BeauRivage {
+  font-family: "Beau Rivage", sans-serif;
+}
+
+.font-BebasNeue {
+  font-family: "Bebas Neue", sans-serif;
+}
+
+.font-Belanosima {
+  font-family: "Belanosima", sans-serif;
+}
+
+.font-Belgrano {
+  font-family: "Belgrano", sans-serif;
+}
+
+.font-Bellefair {
+  font-family: "Bellefair", sans-serif;
+}
+
+.font-Belleza {
+  font-family: "Belleza", sans-serif;
+}
+
+.font-Bellota {
+  font-family: "Bellota", sans-serif;
+}
+
+.font-BellotaText {
+  font-family: "Bellota Text", sans-serif;
+}
+
+.font-BenchNine {
+  font-family: "BenchNine", sans-serif;
+}
+
+.font-Benne {
+  font-family: "Benne", sans-serif;
+}
+
+.font-Bentham {
+  font-family: "Bentham", sans-serif;
+}
+
+.font-BerkshireSwash {
+  font-family: "Berkshire Swash", sans-serif;
+}
+
+.font-Besley {
+  font-family: "Besley", sans-serif;
+}
+
+.font-BethEllen {
+  font-family: "Beth Ellen", sans-serif;
+}
+
+.font-Bevan {
+  font-family: "Bevan", sans-serif;
+}
+
+.font-BhuTukaExpandedOne {
+  font-family: "BhuTuka Expanded One", sans-serif;
+}
+.font-BigShouldersDisplay {
+  font-family: "Big Shoulders Display", sans-serif;
+}
+
+.font-BigShouldersStencilText {
+  font-family: "Big Shoulders Stencil Text", sans-serif;
+}
+
+.font-BigelowRules {
+  font-family: "Bigelow Rules", sans-serif;
+}
+
+.font-BigshotOne {
+  font-family: "Bigshot One", sans-serif;
+}
+
+.font-Bilbo {
+  font-family: "Bilbo", sans-serif;
+}
+
+.font-BilboSwashCaps {
+  font-family: "Bilbo Swash Caps", sans-serif;
+}
+
+.font-BioRhyme {
+  font-family: "BioRhyme", sans-serif;
+}
+
+.font-BioRhymeExpanded {
+  font-family: "BioRhyme Expanded", sans-serif;
+}
+
+.font-Birthstone {
+  font-family: "Birthstone", sans-serif;
+}
+
+.font-BirthstoneBounce {
+  font-family: "Birthstone Bounce", sans-serif;
+}
+
+.font-Biryani {
+  font-family: "Biryani", sans-serif;
+}
+
+.font-Bitter {
+  font-family: "Bitter", sans-serif;
+}
+
+.font-BlackAndWhitePicture {
+  font-family: "Black And White Picture", sans-serif;
+}
+
+.font-BlackHanSans {
+  font-family: "Black Han Sans", sans-serif;
+}
+
+.font-BlackOpsOne {
+  font-family: "Black Ops One", sans-serif;
+}
+
+.font-Blinker {
+  font-family: "Blinker", sans-serif;
+}
+
+.font-BodoniModa {
+  font-family: "Bodoni Moda", sans-serif;
+}
+
+.font-Bokor {
+  font-family: "Bokor", sans-serif;
+}
+
+.font-BonaNova {
+  font-family: "Bona Nova", sans-serif;
+}
+
+.font-Bonbon {
+  font-family: "Bonbon", sans-serif;
+}
+
+.font-BonheurRoyale {
+  font-family: "Bonheur Royale", sans-serif;
+}
+
+.font-Boogaloo {
+  font-family: "Boogaloo", sans-serif;
+}
+
+.font-Borel {
+  font-family: "Borel", sans-serif;
+}
+
+.font-BowlbyOne {
+  font-family: "Bowlby One", sans-serif;
+}
+
+.font-BowlbyOneSC {
+  font-family: "Bowlby One SC", sans-serif;
+}
+
+.font-Brawler {
+  font-family: "Brawler", sans-serif;
+}
+
+.font-BreeSerif {
+  font-family: "Bree Serif", sans-serif;
+}
+
+.font-BricolageGrotesque {
+  font-family: "Bricolage Grotesque", sans-serif;
+}
+
+.font-BrunoAce {
+  font-family: "Bruno Ace", sans-serif;
+}
+
+.font-BrunoAceSC {
+  font-family: "Bruno Ace SC", sans-serif;
+}
+
+.font-Brygada1918 {
+  font-family: "Brygada 1918", sans-serif;
+}
+
+.font-BubblegumSans {
+  font-family: "Bubblegum Sans", sans-serif;
+}
+
+.font-BubblerOne {
+  font-family: "Bubbler One", sans-serif;
+}
+
+.font-Buda {
+  font-family: "Buda", sans-serif;
+}
+
+.font-Buenard {
+  font-family: "Buenard", sans-serif;
+}
+
+.font-Bungee {
+  font-family: "Bungee", sans-serif;
+}
+
+.font-BungeeHairline {
+  font-family: "Bungee Hairline", sans-serif;
+}
+
+.font-BungeeInline {
+  font-family: "Bungee Inline", sans-serif;
+}
+
+.font-BungeeOutline {
+  font-family: "Bungee Outline", sans-serif;
+}
+
+.font-BungeeShade {
+  font-family: "Bungee Shade", sans-serif;
+}
+
+.font-BungeeSpice {
+  font-family: "Bungee Spice", sans-serif;
+}
+
+.font-Butcherman {
+  font-family: "Butcherman", sans-serif;
+}
+
+.font-ButterflyKids {
+  font-family: "Butterfly Kids", sans-serif;
+}
+
+.font-Cabin {
+  font-family: "Cabin", sans-serif;
+}
+
+.font-CabinCondensed {
+  font-family: "Cabin Condensed", sans-serif;
+}
+
+.font-CabinSketch {
+  font-family: "Cabin Sketch", sans-serif;
+}
+
+.font-CaesarDressing {
+  font-family: "Caesar Dressing", sans-serif;
+}
+
+.font-Cagliostro {
+  font-family: "Cagliostro", sans-serif;
+}
+
+.font-Caladea {
+  font-family: "Caladea", sans-serif;
+}
+
+.font-Calistoga {
+  font-family: "Calistoga", sans-serif;
+}
+
+.font-Calligraffitti {
+  font-family: "Calligraffitti", sans-serif;
+}
+
+.font-Cambay {
+  font-family: "Cambay", sans-serif;
+}
+
+.font-Cambo {
+  font-family: "Cambo", sans-serif;
+}
+
+.font-Candal {
+  font-family: "Candal", sans-serif;
+}
+
+.font-Cantarell {
+  font-family: "Cantarell", sans-serif;
+}
+
+.font-CantataOne {
+  font-family: "Cantata One", sans-serif;
+}
+
+.font-CantoraOne {
+  font-family: "Cantora One", sans-serif;
+}
+
+.font-Caprasimo {
+  font-family: "Caprasimo", sans-serif;
+}
+
+.font-Capriola {
+  font-family: "Capriola", sans-serif;
+}
+
+.font-Caramel {
+  font-family: "Caramel", sans-serif;
+}
+
+.font-Carattere {
+  font-family: "Carattere", sans-serif;
+}
+
+.font-Cardo {
+  font-family: "Cardo", sans-serif;
+}
+
+.font-Carlito {
+  font-family: "Carlito", sans-serif;
+}
+
+.font-Carme {
+  font-family: "Carme", sans-serif;
+}
+
+.font-CarroisGothic {
+  font-family: "Carrois Gothic", sans-serif;
+}
+
+.font-CarterOne {
+  font-family: "Carter One", sans-serif;
+}
+
+.font-Castoro {
+  font-family: "Castoro", sans-serif;
+}
+
+.font-CastoroTitling {
+  font-family: "Castoro Titling", sans-serif;
+}
+
+.font-Catamaran {
+  font-family: "Catamaran", sans-serif;
+}
+
+.font-Caudex {
+  font-family: "Caudex", sans-serif;
+}
+
+.font-Caveat {
+  font-family: "Caveat", sans-serif;
+}
+
+.font-CaveatBrush {
+  font-family: "Caveat Brush", sans-serif;
+}
+
+.font-CedarvilleCursive {
+  font-family: "Cedarville Cursive", sans-serif;
+}
+
+.font-CevicheOne {
+  font-family: "Ceviche One", sans-serif;
+}
+
+.font-ChakraPetch {
+  font-family: "Chakra Petch", sans-serif;
+}
+
+.font-ChangaOne {
+  font-family: "Changa One", sans-serif;
+}
+
+.font-Chango {
+  font-family: "Chango", sans-serif;
+}
+
+.font-CharisSIL {
+  font-family: "Charis SIL", sans-serif;
+}
+
+.font-Charm {
+  font-family: "Charm", sans-serif;
+}
+
+.font-Charmonman {
+  font-family: "Charmonman", sans-serif;
+}
+
+.font-Chathura {
+  font-family: "Chathura", sans-serif;
+}
+
+.font-ChauPhilomeneOne {
+  font-family: "Chau Philomene One", sans-serif;
+}
+
+.font-ChelaOne {
+  font-family: "Chela One", sans-serif;
+}
+
+.font-ChelseaMarket {
+  font-family: "Chelsea Market", sans-serif;
+}
+
+.font-Cherish {
+  font-family: "Cherish", sans-serif;
+}
+
+.font-CherryBombOne {
+  font-family: "Cherry Bomb One", sans-serif;
+}
+
+.font-CherryCreamSoda {
+  font-family: "Cherry Cream Soda", sans-serif;
+}
+
+.font-CherrySwash {
+  font-family: "Cherry Swash", sans-serif;
+}
+
+.font-Chewy {
+  font-family: "Chewy", sans-serif;
+}
+
+.font-Chicle {
+  font-family: "Chicle", sans-serif;
+}
+
+.font-Chilanka {
+  font-family: "Chilanka", sans-serif;
+}
+
+.font-Chivo {
+  font-family: "Chivo", sans-serif;
+}
+
+.font-ChivoMono {
+  font-family: "Chivo Mono", sans-serif;
+}
+
+.font-Chokokutai {
+  font-family: "Chokokutai", sans-serif;
+}
+
+.font-Chonburi {
+  font-family: "Chonburi", sans-serif;
+}
+
+.font-Cinzel {
+  font-family: "Cinzel", sans-serif;
+}
+
+.font-CinzelDecorative {
+  font-family: "Cinzel Decorative", sans-serif;
+}
+
+.font-ClickerScript {
+  font-family: "Clicker Script", sans-serif;
+}
+
+.font-ClimateCrisis {
+  font-family: "Climate Crisis", sans-serif;
+}
+
+.font-Coda {
+  font-family: "Coda", sans-serif;
+}
+
+.font-Codystar {
+  font-family: "Codystar", sans-serif;
+}
+
+.font-Coiny {
+  font-family: "Coiny", sans-serif;
+}
+
+.font-Combo {
+  font-family: "Combo", sans-serif;
+}
+
+.font-Comfortaa {
+  font-family: "Comfortaa", sans-serif;
+}
+
+.font-Comforter {
+  font-family: "Comforter", sans-serif;
+}
+
+.font-ComforterBrush {
+  font-family: "Comforter Brush", sans-serif;
+}
+
+.font-ComicNeue {
+  font-family: "Comic Neue", sans-serif;
+}
+
+.font-ComingSoon {
+  font-family: "Coming Soon", sans-serif;
+}
+
+.font-Comme {
+  font-family: "Comme", sans-serif;
+}
+
+.font-Commissioner {
+  font-family: "Commissioner", sans-serif;
+}
+
+.font-ConcertOne {
+  font-family: "Concert One", sans-serif;
+}
+
+.font-Condiment {
+  font-family: "Condiment", sans-serif;
+}
+
+.font-ContrailOne {
+  font-family: "Contrail One", sans-serif;
+}
+
+.font-Convergence {
+  font-family: "Convergence", sans-serif;
+}
+
+.font-Cookie {
+  font-family: "Cookie", sans-serif;
+}
+
+.font-Copse {
+  font-family: "Copse", sans-serif;
+}
+
+.font-Corben {
+  font-family: "Corben", sans-serif;
+}
+
+.font-Corinthia {
+  font-family: "Corinthia", sans-serif;
+}
+
+.font-Cormorant {
+  font-family: "Cormorant", sans-serif;
+}
+
+.font-CormorantGaramond {
+  font-family: "Cormorant Garamond", sans-serif;
+}
+
+.font-CormorantInfant {
+  font-family: "Cormorant Infant", sans-serif;
+}
+
+.font-CormorantSC {
+  font-family: "Cormorant SC", sans-serif;
+}
+
+.font-CormorantUnicase {
+  font-family: "Cormorant Unicase", sans-serif;
+}
+
+.font-CormorantUpright {
+  font-family: "Cormorant Upright", sans-serif;
+}
+
+.font-Courgette {
+  font-family: "Courgette", sans-serif;
+}
+
+.font-CourierPrime {
+  font-family: "Courier Prime", sans-serif;
+}
+
+.font-Cousine {
+  font-family: "Cousine", sans-serif;
+}
+
+.font-Coustard {
+  font-family: "Coustard", sans-serif;
+}
+
+.font-CoveredByYourGrace {
+  font-family: "Covered By Your Grace", sans-serif;
+}
+
+.font-CraftyGirls {
+  font-family: "Crafty Girls", sans-serif;
+}
+
+.font-Creepster {
+  font-family: "Creepster", sans-serif;
+}
+
+.font-CreteRound {
+  font-family: "Crete Round", sans-serif;
+}
+
+.font-BungeeSpice {
+  font-family: "Bungee Spice", sans-serif;
+}
+
+.font-CrimsonPro {
+  font-family: "Crimson Pro", sans-serif;
+}
+
+.font-CrimsonText {
+  font-family: "Crimson Text", sans-serif;
+}
+
+.font-CroissantOne {
+  font-family: "Croissant One", sans-serif;
+}
+
+.font-Crushed {
+  font-family: "Crushed", sans-serif;
+}
+
+.font-Cuprum {
+  font-family: "Cuprum", sans-serif;
+}
+
+.font-CuteFont {
+  font-family: "Cute Font", sans-serif;
+}
+
+.font-Cutive {
+  font-family: "Cutive", sans-serif;
+}
+
+.font-CutiveMono {
+  font-family: "Cutive Mono", sans-serif;
+}
+
+.font-Damion {
+  font-family: "Damion", sans-serif;
+}
+
+.font-DancingScript {
+  font-family: "Dancing Script", sans-serif;
+}
+
+.font-Dangrek {
+  font-family: "Dangrek", sans-serif;
+}
+
+.font-DarkerGrotesque {
+  font-family: "Darker Grotesque", sans-serif;
+}
+
+.font-DawningofaNewDay {
+  font-family: "Dawning of a New Day", sans-serif;
+}
+
+.font-DaysOne {
+  font-family: "Days One", sans-serif;
+}
+
+.font-Dekko {
+  font-family: "Dekko", sans-serif;
+}
+
+.font-DelaGothicOne {
+  font-family: "Dela Gothic One", sans-serif;
+}
+
+.font-DeliciousHandrawn {
+  font-family: "Delicious Handrawn", sans-serif;
+}
+
+.font-Delius {
+  font-family: "Delius", sans-serif;
+}
+
+.font-DeliusSwashCaps {
+  font-family: "Delius Swash Caps", sans-serif;
+}
+
+.font-DeliusUnicase {
+  font-family: "Delius Unicase", sans-serif;
+}
+
+.font-DellaRespira {
+  font-family: "Della Respira", sans-serif;
+}
+
+.font-DenkOne {
+  font-family: "Denk One", sans-serif;
+}
+
+.font-Devonshire {
+  font-family: "Devonshire", sans-serif;
+}
+
+.font-Dhurjati {
+  font-family: "Dhurjati", sans-serif;
+}
+
+.font-DidactGothic {
+  font-family: "Didact Gothic", sans-serif;
+}
+
+.font-Diplomata {
+  font-family: "Diplomata", sans-serif;
+}
+
+.font-DiplomataSC {
+  font-family: "Diplomata SC", sans-serif;
+}
+
+.font-DMMono {
+  font-family: "DM Mono", sans-serif;
+}
+
+.font-DMSans {
+  font-family: "DM Sans", sans-serif;
+}
+
+.font-DMSerifDisplay {
+  font-family: "DM Serif Display", sans-serif;
+}
+
+.font-DMSerifText {
+  font-family: "DM Serif Text", sans-serif;
+}
+
+.font-DoHyeon {
+  font-family: "Do Hyeon", sans-serif;
+}
+
+.font-Dokdo {
+  font-family: "Dokdo", sans-serif;
+}
+
+.font-Domine {
+  font-family: "Domine", sans-serif;
+}
+
+.font-DonegalOne {
+  font-family: "Donegal One", sans-serif;
+}
+
+.font-Dongle {
+  font-family: "Dongle", sans-serif;
+}
+
+.font-DoppioOne {
+  font-family: "Doppio One", sans-serif;
+}
+
+.font-Dorsa {
+  font-family: "Dorsa", sans-serif;
+}
+
+.font-Dosis {
+  font-family: "Dosis", sans-serif;
+}
+
+.font-DotGothic16 {
+  font-family: "DotGothic16", sans-serif;
+}
+
+.font-DrSugiyama {
+  font-family: "Dr Sugiyama", sans-serif;
+}
+
+.font-DuruSans {
+  font-family: "Duru Sans", sans-serif;
+}
+
+.font-Dynalight {
+  font-family: "Dynalight", sans-serif;
+}
+
+.font-DynaPuff {
+  font-family: "DynaPuff", sans-serif;
+}
+
+.font-EagleLake {
+  font-family: "Eagle Lake", sans-serif;
+}
+
+.font-EastSeaDokdo {
+  font-family: "East Sea Dokdo", sans-serif;
+}
+
+.font-Eater {
+  font-family: "Eater", sans-serif;
+}
+
+.font-EBGaramond {
+  font-family: "EB Garamond", sans-serif;
+}
+
+.font-Economica {
+  font-family: "Economica", sans-serif;
+}
+
+.font-Eczar {
+  font-family: "Eczar", sans-serif;
+}
+
+.font-EduNSWACTFoundation {
+  font-family: "Edu NSW ACT Foundation", sans-serif;
+}
+
+.font-EduQLDBeginner {
+  font-family: "Edu QLD Beginner", sans-serif;
+}
+
+.font-EduSABeginner {
+  font-family: "Edu SA Beginner", sans-serif;
+}
+
+.font-EduTASBeginner {
+  font-family: "Edu TAS Beginner", sans-serif;
+}
+
+.font-EduVICWANTBeginner {
+  font-family: "Edu VIC WA NT Beginner", sans-serif;
+}
+
+.font-Electrolize {
+  font-family: "Electrolize", sans-serif;
+}
+
+.font-Elsie {
+  font-family: "Elsie", sans-serif;
+}
+
+.font-ElsieSwashCaps {
+  font-family: "Elsie Swash Caps", sans-serif;
+}
+
+.font-EmblemaOne {
+  font-family: "Emblema One", sans-serif;
+}
+
+.font-EmilysCandy {
+  font-family: "Emilys Candy", sans-serif;
+}
+
+.font-EncodeSans {
+  font-family: "Encode Sans", sans-serif;
+}
+
+.font-EncodeSansCondensed {
+  font-family: "Encode Sans Condensed", sans-serif;
+}
+
+.font-EncodeSansExpanded {
+  font-family: "Encode Sans Expanded", sans-serif;
+}
+
+.font-EncodeSansSC {
+  font-family: "Encode Sans SC", sans-serif;
+}
+
+.font-EncodeSansSemiCondensed {
+  font-family: "Encode Sans Semi Condensed", sans-serif;
+}
+
+.font-EncodeSansSemiExpanded {
+  font-family: "Encode Sans Semi Expanded", sans-serif;
+}
+
+.font-Engagement {
+  font-family: "Engagement", sans-serif;
+}
+
+.font-Englebert {
+  font-family: "Englebert", sans-serif;
+}
+
+.font-Enriqueta {
+  font-family: "Enriqueta", sans-serif;
+}
+
+.font-Ephesis {
+  font-family: "Ephesis", sans-serif;
+}
+
+.font-Epilogue {
+  font-family: "Epilogue", sans-serif;
+}
+
+.font-EricaOne {
+  font-family: "Erica One", sans-serif;
+}
+
+.font-Esteban {
+  font-family: "Esteban", sans-serif;
+}
+
+.font-Estonia {
+  font-family: "Estonia", sans-serif;
+}
+
+.font-EuphoriaScript {
+  font-family: "Euphoria Script", sans-serif;
+}
+
+.font-Ewert {
+  font-family: "Ewert", sans-serif;
+}
+
+.font-Exo {
+  font-family: "Exo", sans-serif;
+}
+
+.font-Exo2 {
+  font-family: "Exo 2", sans-serif;
+}
+
+.font-ExpletusSans {
+  font-family: "Expletus Sans", sans-serif;
+}
+
+.font-Explora {
+  font-family: "Explora", sans-serif;
+}
+
+.font-Fahkwang {
+  font-family: "Fahkwang", sans-serif;
+}
+
+.font-FamiljenGrotesk {
+  font-family: "Familjen Grotesk", sans-serif;
+}
+
+.font-FanwoodText {
+  font-family: "Fanwood Text", sans-serif;
+}
+
+.font-Farro {
+  font-family: "Farro", sans-serif;
+}
+
+.font-Fascinate {
+  font-family: "Fascinate", sans-serif;
+}
+
+.font-Farsan {
+  font-family: "Farsan", sans-serif;
+}
+
+.font-FascinateInline {
+  font-family: "Fascinate Inline", sans-serif;
+}
+
+.font-FasterOne {
+  font-family: "Faster One", sans-serif;
+}
+
+.font-Fasthand {
+  font-family: "Fasthand", sans-serif;
+}
+
+.font-FaunaOne {
+  font-family: "Fauna One", sans-serif;
+}
+
+.font-Faustina {
+  font-family: "Faustina", sans-serif;
+}
+
+.font-Federant {
+  font-family: "Federant", sans-serif;
+}
+
+.font-Federo {
+  font-family: "Federo", sans-serif;
+}
+
+.font-Felipa {
+  font-family: "Felipa", sans-serif;
+}
+
+.font-Fenix {
+  font-family: "Fenix", sans-serif;
+}
+
+.font-Festive {
+  font-family: "Festive", sans-serif;
+}
+
+.font-Figtree {
+  font-family: "Figtree", sans-serif;
+}
+
+.font-FingerPaint {
+  font-family: "Finger Paint", sans-serif;
+}
+
+.font-Finlandica {
+  font-family: "Finlandica", sans-serif;
+}
+
+.font-FiraCode {
+  font-family: "Fira Code", sans-serif;
+}
+
+.font-FiraMono {
+  font-family: "Fira Mono", sans-serif;
+}
+
+.font-FiraSans {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.font-FiraSansCondensed {
+  font-family: "Fira Sans Condensed", sans-serif;
+}
+
+.font-FiraSansExtraCondensed {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+}
+
+.font-FjallaOne {
+  font-family: "Fjalla One", sans-serif;
+}
+
+.font-FjordOne {
+  font-family: "Fjord One", sans-serif;
+}
+
+.font-Flamenco {
+  font-family: "Flamenco", sans-serif;
+}
+
+.font-Flavors {
+  font-family: "Flavors", sans-serif;
+}
+
+.font-FleurDeLeah {
+  font-family: "Fleur De Leah", sans-serif;
+}
+
+.font-FlowBlock {
+  font-family: "Flow Block", sans-serif;
+}
+
+.font-FlowCircular {
+  font-family: "Flow Circular", sans-serif;
+}
+
+.font-FlowRounded {
+  font-family: "Flow Rounded", sans-serif;
+}
+
+.font-Foldit {
+  font-family: "Foldit", sans-serif;
+}
+
+.font-Fondamento {
+  font-family: "Fondamento", sans-serif;
+}
+
+.font-FontdinerSwanky {
+  font-family: "Fontdiner Swanky", sans-serif;
+}
+
+.font-Forum {
+  font-family: "Forum", sans-serif;
+}
+
+.font-FragmentMono {
+  font-family: "Fragment Mono", sans-serif;
+}
+
+.font-FrancoisOne {
+  font-family: "Francois One", sans-serif;
+}
+
+.font-FrankRuhlLibre {
+  font-family: "Frank Ruhl Libre", sans-serif;
+}
+
+.font-Fraunces {
+  font-family: "Fraunces", sans-serif;
+}
+
+.font-FreckleFace {
+  font-family: "Freckle Face", sans-serif;
+}
+
+.font-FrederickatheGreat {
+  font-family: "Fredericka the Great", sans-serif;
+}
+
+.font-Fredoka {
+  font-family: "Fredoka", sans-serif;
+}
+
+.font-Freehand {
+  font-family: "Freehand", sans-serif;
+}
+
+.font-Fresca {
+  font-family: "Fresca", sans-serif;
+}
+
+.font-Frijole {
+  font-family: "Frijole", sans-serif;
+}
+
+.font-Fruktur {
+  font-family: "Fruktur", sans-serif;
+}
+
+.font-FugazOne {
+  font-family: "Fugaz One", sans-serif;
+}
+
+.font-Fuggles {
+  font-family: "Fuggles", sans-serif;
+}
+
+.font-FuzzyBubbles {
+  font-family: "Fuzzy Bubbles", sans-serif;
+}
+
+.font-Gabarito {
+  font-family: "Gabarito", sans-serif;
+}
+
+.font-Gabriela {
+  font-family: "Gabriela", sans-serif;
+}
+
+.font-Gaegu {
+  font-family: "Gaegu", sans-serif;
+}
+
+.font-Gafata {
+  font-family: "Gafata", sans-serif;
+}
+
+.font-Galada {
+  font-family: "Galada", sans-serif;
+}
+
+.font-Galdeano {
+  font-family: "Galdeano", sans-serif;
+}
+
+.font-Galindo {
+  font-family: "Galindo", sans-serif;
+}
+
+.font-GamjaFlower {
+  font-family: "Gamja Flower", sans-serif;
+}
+
+.font-Gantari {
+  font-family: "Gantari", sans-serif;
+}
+
+.font-Gayathri {
+  font-family: "Gayathri", sans-serif;
+}
+
+.font-Gelasio {
+  font-family: "Gelasio", sans-serif;
+}
+
+.font-GemunuLibre {
+  font-family: "Gemunu Libre", sans-serif;
+}
+
+.font-Genos {
+  font-family: "Genos", sans-serif;
+}
+
+.font-GentiumBookPlus {
+  font-family: "Gentium Book Plus", sans-serif;
+}
+
+.font-GentiumPlus {
+  font-family: "Gentium Plus", sans-serif;
+}
+
+.font-Geo {
+  font-family: "Geo", sans-serif;
+}
+
+.font-Geologica {
+  font-family: "Geologica", sans-serif;
+}
+
+.font-Georama {
+  font-family: "Georama", sans-serif;
+}
+
+.font-Geostar {
+  font-family: "Geostar", sans-serif;
+}
+
+.font-GeostarFill {
+  font-family: "Geostar Fill", sans-serif;
+}
+
+.font-GermaniaOne {
+  font-family: "Germania One", sans-serif;
+}
+
+.font-GFSDidot {
+  font-family: "GFS Didot", sans-serif;
+}
+
+.font-GFSNeohellenic {
+  font-family: "GFS Neohellenic", sans-serif;
+}
+
+.font-GideonRoman {
+  font-family: "Gideon Roman", sans-serif;
+}
+
+.font-Gidugu {
+  font-family: "Gidugu", sans-serif;
+}
+
+.font-GildaDisplay {
+  font-family: "Gilda Display", sans-serif;
+}
+
+.font-Girassol {
+  font-family: "Girassol", sans-serif;
+}
+
+.font-GiveYouGlory {
+  font-family: "Give You Glory", sans-serif;
+}
+
+.font-GlassAntiqua {
+  font-family: "Glass Antiqua", sans-serif;
+}
+
+.font-Glegoo {
+  font-family: "Glegoo", sans-serif;
+}
+
+.font-Gloock {
+  font-family: "Gloock", sans-serif;
+}
+
+.font-GloriaHallelujah {
+  font-family: "Gloria Hallelujah", sans-serif;
+}
+
+.font-Glory {
+  font-family: "Glory", sans-serif;
+}
+
+.font-Gluten {
+  font-family: "Gluten", sans-serif;
+}
+
+.font-GoblinOne {
+  font-family: "Goblin One", sans-serif;
+}
+
+.font-GochiHand {
+  font-family: "Gochi Hand", sans-serif;
+}
+
+.font-Goldman {
+  font-family: "Goldman", sans-serif;
+}
+
+.font-GolosText {
+  font-family: "Golos Text", sans-serif;
+}
+
+.font-Gorditas {
+  font-family: "Gorditas", sans-serif;
+}
+
+.font-GothicA1 {
+  font-family: "Gothic A1", sans-serif;
+}
+
+.font-Gotu {
+  font-family: "Gotu", sans-serif;
+}
+
+.font-GoudyBookletter1911 {
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.font-GowunBatang {
+  font-family: "Gowun Batang", sans-serif;
+}
+
+.font-GowunDodum {
+  font-family: "Gowun Dodum", sans-serif;
+}
+
+.font-Graduate {
+  font-family: "Graduate", sans-serif;
+}
+
+.font-GrandHotel {
+  font-family: "Grand Hotel", sans-serif;
+}
+
+.font-Grandstander {
+  font-family: "Grandstander", sans-serif;
+}
+
+.font-GrapeNuts {
+  font-family: "Grape Nuts", sans-serif;
+}
+
+.font-GravitasOne {
+  font-family: "Gravitas One", sans-serif;
+}
+
+.font-GreatVibes {
+  font-family: "Great Vibes", sans-serif;
+}
+
+.font-GrechenFuemen {
+  font-family: "Grechen Fuemen", sans-serif;
+}
+
+.font-Grenze {
+  font-family: "Grenze", sans-serif;
+}
+
+.font-GrenzeGotisch {
+  font-family: "Grenze Gotisch", sans-serif;
+}
+
+.font-GreyQo {
+  font-family: "Grey Qo", sans-serif;
+}
+
+.font-Griffy {
+  font-family: "Griffy", sans-serif;
+}
+
+.font-Gruppo {
+  font-family: "Gruppo", sans-serif;
+}
+
+.font-Gudea {
+  font-family: "Gudea", sans-serif;
+}
+
+.font-Gugi {
+  font-family: "Gugi", sans-serif;
+}
+
+.font-Gupter {
+  font-family: "Gupter", sans-serif;
+}
+
+.font-Gurajada {
+  font-family: "Gurajada", sans-serif;
+}
+
+.font-Gwendolyn {
+  font-family: "Gwendolyn", sans-serif;
+}
+
+.font-Gabarito {
+  font-family: "Gabarito", sans-serif;
+}
+
+.font-Gabriela {
+  font-family: "Gabriela", sans-serif;
+}
+
+.font-Gaegu {
+  font-family: "Gaegu", sans-serif;
+}
+
+.font-Gafata {
+  font-family: "Gafata", sans-serif;
+}
+
+.font-Galada {
+  font-family: "Galada", sans-serif;
+}
+
+.font-Galdeano {
+  font-family: "Galdeano", sans-serif;
+}
+
+.font-Galindo {
+  font-family: "Galindo", sans-serif;
+}
+
+.font-GamjaFlower {
+  font-family: "Gamja Flower", sans-serif;
+}
+
+.font-Gantari {
+  font-family: "Gantari", sans-serif;
+}
+
+.font-Gayathri {
+  font-family: "Gayathri", sans-serif;
+}
+
+.font-Gelasio {
+  font-family: "Gelasio", sans-serif;
+}
+
+.font-GemunuLibre {
+  font-family: "Gemunu Libre", sans-serif;
+}
+
+.font-Genos {
+  font-family: "Genos", sans-serif;
+}
+
+.font-GentiumBookPlus {
+  font-family: "Gentium Book Plus", sans-serif;
+}
+
+.font-GentiumPlus {
+  font-family: "Gentium Plus", sans-serif;
+}
+
+.font-Geo {
+  font-family: "Geo", sans-serif;
+}
+
+.font-Geologica {
+  font-family: "Geologica", sans-serif;
+}
+
+.font-Georama {
+  font-family: "Georama", sans-serif;
+}
+
+.font-Geostar {
+  font-family: "Geostar", sans-serif;
+}
+
+.font-GeostarFill {
+  font-family: "Geostar Fill", sans-serif;
+}
+
+.font-GermaniaOne {
+  font-family: "Germania One", sans-serif;
+}
+
+.font-GFSDidot {
+  font-family: "GFS Didot", sans-serif;
+}
+
+.font-GFSNeohellenic {
+  font-family: "GFS Neohellenic", sans-serif;
+}
+
+.font-GideonRoman {
+  font-family: "Gideon Roman", sans-serif;
+}
+
+.font-Gidugu {
+  font-family: "Gidugu", sans-serif;
+}
+
+.font-GildaDisplay {
+  font-family: "Gilda Display", sans-serif;
+}
+
+.font-Girassol {
+  font-family: "Girassol", sans-serif;
+}
+
+.font-GiveYouGlory {
+  font-family: "Give You Glory", sans-serif;
+}
+
+.font-GlassAntiqua {
+  font-family: "Glass Antiqua", sans-serif;
+}
+
+.font-Glegoo {
+  font-family: "Glegoo", sans-serif;
+}
+
+.font-Gloock {
+  font-family: "Gloock", sans-serif;
+}
+
+.font-GloriaHallelujah {
+  font-family: "Gloria Hallelujah", sans-serif;
+}
+
+.font-Glory {
+  font-family: "Glory", sans-serif;
+}
+
+.font-Gluten {
+  font-family: "Gluten", sans-serif;
+}
+
+.font-GoblinOne {
+  font-family: "Goblin One", sans-serif;
+}
+
+.font-GochiHand {
+  font-family: "Gochi Hand", sans-serif;
+}
+
+.font-Goldman {
+  font-family: "Goldman", sans-serif;
+}
+
+.font-GolosText {
+  font-family: "Golos Text", sans-serif;
+}
+
+.font-Gorditas {
+  font-family: "Gorditas", sans-serif;
+}
+
+.font-GothicA1 {
+  font-family: "Gothic A1", sans-serif;
+}
+
+.font-Gotu {
+  font-family: "Gotu", sans-serif;
+}
+
+.font-GoudyBookletter1911 {
+  font-family: "Goudy Bookletter 1911", sans-serif;
+}
+
+.font-GowunBatang {
+  font-family: "Gowun Batang", sans-serif;
+}
+
+.font-GowunDodum {
+  font-family: "Gowun Dodum", sans-serif;
+}
+
+.font-Graduate {
+  font-family: "Graduate", sans-serif;
+}
+
+.font-GrandHotel {
+  font-family: "Grand Hotel", sans-serif;
+}
+
+.font-Grandstander {
+  font-family: "Grandstander", sans-serif;
+}
+
+.font-GrapeNuts {
+  font-family: "Grape Nuts", sans-serif;
+}
+
+.font-GravitasOne {
+  font-family: "Gravitas One", sans-serif;
+}
+
+.font-GreatVibes {
+  font-family: "Great Vibes", sans-serif;
+}
+
+.font-GrechenFuemen {
+  font-family: "Grechen Fuemen", sans-serif;
+}
+
+.font-Grenze {
+  font-family: "Grenze", sans-serif;
+}
+
+.font-GrenzeGotisch {
+  font-family: "Grenze Gotisch", sans-serif;
+}
+
+.font-GreyQo {
+  font-family: "Grey Qo", sans-serif;
+}
+
+.font-Griffy {
+  font-family: "Griffy", sans-serif;
+}
+
+.font-Gruppo {
+  font-family: "Gruppo", sans-serif;
+}
+
+.font-Gudea {
+  font-family: "Gudea", sans-serif;
+}
+
+.font-Gugi {
+  font-family: "Gugi", sans-serif;
+}
+
+.font-Gupter {
+  font-family: "Gupter", sans-serif;
+}
+
+.font-Gurajada {
+  font-family: "Gurajada", sans-serif;
+}
+
+.font-Gwendolyn {
+  font-family: "Gwendolyn", sans-serif;
+}
