@@ -1,8 +1,8 @@
 <template>
-  <h3 class="h33">Add new transaction</h3>
+  <h3 class="h33">Добавить новую транзакцию</h3>
   <form id="form" @submit.prevent="onSubmit">
     <div class="form-control">
-      <label class="label2" for="text">Text</label>
+      <label class="label2" for="text">Напишите текст</label>
       <input
         class="input4"
         type="text"
@@ -12,10 +12,7 @@
       />
     </div>
     <div class="form-control">
-      <label class="label2" for="amount"
-        >Amount <br />
-        (negative - expense, positive - income)</label
-      >
+      <label class="label2" for="amount">Нпишите сумму <br /> </label>
       <input
         class="input4"
         type="text"
@@ -25,7 +22,7 @@
       />
     </div>
     <Toast />
-    <Button class="btn" label="Add Transaction" @click="onSubmit()" />
+    <Button class="btn" label="Добавить транзакцию" @click="onSubmit()" />
   </form>
 </template>
 <script setup>

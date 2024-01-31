@@ -1,5 +1,5 @@
 <template>
-  <h3 class="h33">History</h3>
+  <h3 class="h33">История</h3>
   <ul id="list" class="list">
     <li
       class="li1"
