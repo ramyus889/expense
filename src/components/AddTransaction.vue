@@ -41,6 +41,7 @@ const onSubmit = () => {
       detail: "text or amount cannot be empty",
       life: 3000,
     });
+    return;
   } else
     toast.add({
       severity: "success",
